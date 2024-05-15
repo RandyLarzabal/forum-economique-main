@@ -1673,10 +1673,15 @@ h6 {
 
   #countdown li {
     font-size: 1em;
+    padding: 0.5rem;
+  } 
+  
+  #countdown ul {
+padding: 0;
   }
 
   #countdown li span {
-    font-size: 1.5rem;
+    font-size: 1rem;
   }
 
   .separator{
