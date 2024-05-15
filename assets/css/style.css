@@ -1661,3 +1661,25 @@ h6 {
   font-size: 4.5rem;
 }
 
+
+@media (max-width: 991px) {
+  #head span {
+    font-size: 24px !important;
+  }
+
+  #head {
+    font-size: 28px !important;
+  }
+
+  #countdown li {
+    font-size: 1em;
+  }
+
+  #countdown li span {
+    font-size: 2rem;
+  }
+
+  .separator{
+    width: 75%;
+  }
+}
